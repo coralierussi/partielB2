@@ -1,0 +1,126 @@
+body{
+    background-color: #8338ec;
+}
+p{
+    color: white;
+}
+a{
+    color: white;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.break{
+    clear: both;
+}
+.logo{
+    width: 50px;
+    margin: 10px;
+}
+.logo, .navbar{
+    float: left;
+}
+.navbar{
+    margin: 30px 0px 50px 1000px;
+}
+.onglet{
+    text-decoration: none;
+    margin-left: 10px;
+}
+#quizz{
+    padding: 5px;
+    border-radius: 15px;
+    background-color: black;
+}
+.quizztext{
+    width: 30%;
+    margin-left: 35%;
+}
+.test{
+    margin-left: 45%;
+    margin-top: 20px;
+    padding: 5px 15px 5px 15px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+.test:hover{
+    cursor: pointer;
+}
+.quest{
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+.div{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    width: 15%;
+    margin-left: 43%;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    border: solid black 0.5px;
+
+}
+.check, .proposition{
+    float: left;
+}
+.check{
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color: white;
+}
+.proposition{
+    color: white;
+}
+.btnvalider{
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    font-size: 15px;
+    margin-left: 46%;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+.btnvalider:hover{
+    cursor: pointer;
+}
+.footer{
+    margin-top: 20%;
+}
+.logofoot{
+    width: 50px;
+    margin: 10px;
+}
+.footnavbar{
+    width: 75%;
+}
+.footnavbar, .logofoot{
+    float: left;
+}
+.navfoot{
+    width: 100%;
+    border: none;
+}
+.logofoot, .navfoot{
+    display: flex;
+    justify-content: center;
+}
+.footcontact{
+    width: 25%;
+}
+.numerofoot{
+    font-size: 30px;
+}
+.logotiktok, .logoinsta{
+    width: 2%;
+}
+.logoinsta{
+    padding-left: 10px;
+}
